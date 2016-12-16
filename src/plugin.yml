@@ -1,0 +1,10 @@
+name: IPRangeChecker
+main: me.AlexLander123.IPRangeChecker.IPRangeChecker
+version: 1.0
+author: AlexLander123
+description: >
+             Check IP Range for Players!
+depend: [AuthMe]
+commands:
+    checkiprange:
+        description: Check Amount of Players in the IP Range.
